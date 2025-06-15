@@ -8,7 +8,7 @@ int main()
 	char first, middle, last;
 	first = 'H';
 	middle = 'A';
-	last = 'S';
+	last = 'A';
 	cout << first << middle << last << endl;
 	return 0;
 }
